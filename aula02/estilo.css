@@ -1,0 +1,49 @@
+body
+        {
+margin: 0;
+padding: 0;
+
+        }
+
+h1
+{
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(111, 221, 101);
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+form
+{
+border: 1px solid plum;
+width: 500px;
+margin: 20px auto;
+padding: 20px;
+
+}
+
+input[type=text]
+{
+width: 100%;
+padding: 5px;
+
+}
+input[type=button]
+{
+    padding: 10px;
+}
+
+.conteudo
+{
+    border : 1px solid chartreuse;
+    margin: 20px auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rebeccapurple;
+    font-size: 20px;
+}
