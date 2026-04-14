@@ -1,4 +1,4 @@
-function Exemplo11()
+function exemplo11()
 {
     let valor = Number (document.getElementById("valor").value);
     let horas = Number (document.getElementById("horas").value);
